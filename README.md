@@ -3,5 +3,4 @@ Muscle active state model implemented in Simulink. The muscle active state model
 
                                             
 ![image](https://github.com/KanNudimmud/Muscle-Active-State/assets/75501882/defd63b7-5164-4384-913e-1f4186888bec)
-
 Figure.  Plot of the Active State
